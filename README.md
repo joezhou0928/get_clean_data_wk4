@@ -1,4 +1,4 @@
-# This is the course project for Getting and Cleaning data Coursera course
+# Course project for Getting and Cleaning data Coursera course
 
 Here are all the files in this repo:
 1. output_data.txt: the output data file after the analysis
