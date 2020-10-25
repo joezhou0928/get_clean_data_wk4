@@ -1,13 +1,13 @@
 # A code book for run_analysis.R
 ## Path variables
-x_train_path: The path to x_train.txt
-x_test_path: The path to x_test_path.txt
-sub_train_path: The path to subject_train.txt
-sub_test_path: The path to subject_test.txt
-feature_map_path: The path to features.txt
-y_train_path: The path to y_train.txt
-y_test_path: The path to y_test.txt
-actv_lbls_path: The path to activity_labels.txt
+- x_train_path: The path to x_train.txt
+- x_test_path: The path to x_test_path.txt
+- sub_train_path: The path to subject_train.txt
+- sub_test_path: The path to subject_test.txt
+- feature_map_path: The path to features.txt
+- y_train_path: The path to y_train.txt
+- y_test_path: The path to y_test.txt
+- actv_lbls_path: The path to activity_labels.txt
 ## Initial data variables
 x_train: Data read from x_train.txt
 x_test: Data read from x_test.txt
